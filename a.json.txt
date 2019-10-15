@@ -1,3 +1,0 @@
-{
-	"flag": "DISCCTF{4NDR01D_R3QU3ST_CTF}"
-}
